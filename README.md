@@ -14,13 +14,13 @@ Description: A professional and attractive README for Fakheraddaoui's GitHub pro
 
 ### 👨‍💻 About Me
 
-I'm a passionate developer who loves creating innovative solutions and learning new technologies. My journey in tech is driven by curiosity and the desire to build meaningful applications.
+I'm a passionate Embedded Software Developer and Robotics Engineer with a mission to revolutionize agriculture through technology. Currently, I'm building **Agrobotix** - a smart farming robot that combines embedded systems, robotics, and AI to create sustainable and efficient farming solutions.
 
-- 🔭 **Currently Working On:** Building responsive web applications and exploring full-stack development
-- 🌱 **Currently Learning:** React.js, Node.js, and Cloud Computing (AWS)
-- 👯 **Looking to Collaborate On:** Open-source projects, web applications, and innovative tech solutions
-- 🤔 **Looking For Help With:** Advanced JavaScript concepts and system architecture
-- 💬 **Ask Me About:** Web development, problem-solving, or tech in general
+- 🔭 **Currently Working On:** **Agrobotix - The Smart Farm Robot** - Developing an autonomous agricultural robot for precision farming
+- 🌱 **Currently Learning:** Advanced ROS, Computer Vision, Machine Learning for agriculture, and RTOS optimization
+- 👯 **Looking to Collaborate On:** Agtech projects, robotics applications, and open-source agricultural technology
+- 🤔 **Looking For Help With:** SLAM algorithms, crop detection models, and autonomous navigation
+- 💬 **Ask Me About:** Embedded systems, robotics, Agrobotix, C/C++, or anything tech-related!
 - 📫 **How to Reach Me:** fakherraddaoui5@gmail.com | [LinkedIn](https://www.linkedin.com/in/fakher-raddaoui-8995b9251/)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I can solve a Rubik's cube in under 2 minutes and I love playing chess!
