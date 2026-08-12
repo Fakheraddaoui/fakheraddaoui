@@ -7,7 +7,7 @@ Description: A professional and attractive README for Fakheraddaoui's GitHub pro
 <h3 align="center">A Passionate Developer & Tech Enthusiast</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=00A3FF&center=true&vCenter=true&width=435&lines=Embedded+Software+Developer;Problem+Solver;Tech+Enthusiast;Lifelong+Learner;Agrobotix Dreamer; Robotics solution provider" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=00A3FF&center=true&vCenter=true&width=435&lines=Embedded+Software+Developer;Problem+Solver;Tech+Enthusiast;Lifelong+Learner;Agrobotix Dreamer;Robotics solution provider;" alt="Typing SVG" />
 </div>
 
 ---
