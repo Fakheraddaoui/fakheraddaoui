@@ -4,10 +4,10 @@ Description: A professional and attractive README for Fakheraddaoui's GitHub pro
 -->
 
 <h1 align="center">Hi there 👋, I'm Fakher Addaoui</h1>
-<h3 align="center">A Passionate Developer & Tech Enthusiast</h3>
+<h3 align="center">Embedded Software Developer | Robotics Engineer | Agrobotix Creator</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=00A3FF&center=true&vCenter=true&width=435&lines=Embedded+Software+Developer;Problem+Solver;Tech+Enthusiast;Lifelong+Learner;Agrobotix+Dreamer;Robotics+solution+provider;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=00A3FF&center=true&vCenter=true&width=435&lines=Embedded+Software+Developer;Problem+Solver;Tech+Enthusiast;Lifelong+Learner;Agrobotix+Dreamer;Robotics+solution+provider;" alt="Typing Animation" />
 </div>
 
 ---
@@ -31,7 +31,7 @@ I'm a passionate Embedded Software Developer and Robotics Engineer with a missio
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,cpp,git,github,vscode,linux&perline=6" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,arduino,raspberrypi,linux,git,github,vscode,html,css&perline=6" alt="Skills Icons" />
   </a>
 </p>
 
@@ -69,13 +69,13 @@ I'm a passionate Embedded Software Developer and Robotics Engineer with a missio
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/fakher-addaoui" target="_blank">
+  <a href="https://linkedin.com/in/fakher-raddaoui-8995b9251" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/fakher_addaoui" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:fakher.addaoui@email.com" target="_blank">
+  <a href="mailto:fakherraddaoui5@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://fakherportfolio.com" target="_blank">
@@ -83,9 +83,6 @@ I'm a passionate Embedded Software Developer and Robotics Engineer with a missio
   </a>
   <a href="https://youtube.com/@fakheraddaoui" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://discord.gg/yourdiscord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
@@ -112,60 +109,50 @@ I'm a passionate Embedded Software Developer and Robotics Engineer with a missio
 
 ---
 
-### 📌 Pinned Projects
-
-<!-- Replace the URLs below with your actual repositories when you create them -->
+### 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Fakheraddaoui/portfolio-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fakheraddaoui&repo=portfolio-website&theme=radical" />
+  <a href="https://github.com/Fakheraddaoui/agrobotix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fakheraddaoui&repo=agrobotix&theme=radical" alt="Agrobotix Project" />
   </a>
-  <a href="https://github.com/Fakheraddaoui/ecommerce-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fakheraddaoui&repo=ecommerce-app&theme=radical" />
+  <a href="https://github.com/Fakheraddaoui/embedded-robotics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fakheraddaoui&repo=embedded-robotics&theme=radical" alt="Embedded Robotics Project" />
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/Fakheraddaoui/task-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fakheraddaoui&repo=task-manager&theme=radical" />
+  <a href="https://github.com/Fakheraddaoui/rtos-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fakheraddaoui&repo=rtos-projects&theme=radical" alt="RTOS Projects" />
   </a>
-  <a href="https://github.com/Fakheraddaoui/weather-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fakheraddaoui&repo=weather-app&theme=radical" />
+  <a href="https://github.com/Fakheraddaoui/iot-solutions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fakheraddaoui&repo=iot-solutions&theme=radical" alt="IoT Solutions" />
   </a>
 </div>
-
----
-
-### ⚡ Recent Activity
-
-<!-- This section auto-updates with your recent GitHub activity -->
-<!-- You can set up a GitHub Action to automatically update this -->
-
-<!--START_SECTION:activity-->
-1. 🎉 Created new repository [portfolio-website](https://github.com/Fakheraddaoui/portfolio-website)
-2. 🚀 Pushed changes to [ecommerce-app](https://github.com/Fakheraddaoui/ecommerce-app)
-3. 🔥 Opened PR in [open-source-project](https://github.com/Fakheraddaoui/open-source-project)
-<!--END_SECTION:activity-->
-
----
-
-### 📝 Latest Blog Posts
-
-<!-- If you have a blog, you can add links here -->
-<!-- You can use a GitHub Action to auto-update this -->
-
-- 🚀 [10 JavaScript Tips for Beginners](https://dev.to/fakheraddaoui)
-- 💻 [Building Your First React App](https://dev.to/fakheraddaoui)
-- 🌟 [Open Source Contribution Guide](https://dev.to/fakheraddaoui)
 
 ---
 
 ### 🎯 Current Goals
 
-- [ ] Build a full-stack MERN application
-- [x] Learn React.js (In Progress)
-- [ ] Contribute to 5 open-source projects
-- [ ] Create a developer portfolio website
-- [ ] Obtain AWS Cloud Practitioner certification
+- [ ] 🚜 **Complete Agrobotix prototype** - Build a fully functional smart farm robot
+- [ ] 🧠 **Implement AI crop detection** - Computer vision for plant health monitoring
+- [ ] 🗺️ **Develop autonomous navigation** - SLAM and path planning for fields
+- [ ] 📡 **Integrate IoT sensors** - Real-time data collection and analysis
+- [ ] 🌍 **Open source the platform** - Contribute to the agtech community
+- [ ] 📄 **Publish research** - Share findings on agricultural robotics
+
+---
+
+### 🛠️ Agrobotix Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
 
 ---
 
@@ -176,64 +163,11 @@ I'm a passionate Embedded Software Developer and Robotics Engineer with a missio
 ---
 
 <div align="center">
-  <p><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</i></p>
+  <p><i>"The farmer is the only man in our economy who buys everything at retail, sells everything at wholesale, and pays the freight both ways." – John F. Kennedy</i></p>
   <br>
-  <p>⭐️ From <a href="https://github.com/Fakheraddaoui">Fakher Addaoui</a></p>
-  <p>🔹 Thanks for visiting! Have a great day! 🔹</p>
+  <p>🤖 From <a href="https://github.com/Fakheraddaoui">Fakher Addaoui</a></p>
+  <p>🌾 Embedded Software Developer | Robotics Engineer | Agrobotix Creator</p>
+  <p>🚜 Building the future of farming, one line of code at a time!</p>
+  <br>
+  <p>⭐️ If you like Agrobotix, give it a star!</p>
 </div>
-
-<!-- 
-🎨 CUSTOMIZATION GUIDE:
-1. Update social media links with your real URLs
-2. Change the fun fact to something about you
-3. Replace placeholder repository names with your actual projects
-4. Update the skills icons if needed
-5. Modify the "Current Goals" section to match your actual goals
-6. Add your real email and portfolio link
--->
-
----
-
-### 📋 Quick Update Checklist
-
-**Replace these placeholders with your real info:**
-
-| Placeholder | Replace With |
-|-------------|--------------|
-| `fakher.addaoui@email.com` | Your real email |
-| `https://linkedin.com/in/fakher-addaoui` | Your LinkedIn URL |
-| `https://twitter.com/fakher_addaoui` | Your Twitter URL |
-| `https://fakherportfolio.com` | Your portfolio URL |
-| `https://youtube.com/@fakheraddaoui` | Your YouTube URL |
-| `https://www.buymeacoffee.com/fakheraddaoui` | Your Buy Me a Coffee link |
-| `portfolio-website` | Your first project name |
-| `ecommerce-app` | Your second project name |
-| `task-manager` | Your third project name |
-| `weather-app` | Your fourth project name |
-
----
-
-### 🚀 Bonus: GitHub Action for Auto-Updating Activity
-
-To automatically update your recent activity, create this workflow file:
-
-**File: `.github/workflows/update-readme.yml`**
-```yaml
-name: Update README
-
-on:
-  schedule:
-    - cron: '0 0 * * *'  # Runs daily
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: 'Update recent activity'
-          MAX_LINES: 5
