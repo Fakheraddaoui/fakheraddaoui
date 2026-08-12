@@ -21,7 +21,7 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 - 👯 **Looking to Collaborate On:** Open-source projects, web applications, and innovative tech solutions
 - 🤔 **Looking For Help With:** Advanced JavaScript concepts and system architecture
 - 💬 **Ask Me About:** Web development, problem-solving, or tech in general
-- 📫 **How to Reach Me:** fakher.addaoui@email.com | [LinkedIn](https://linkedin.com/in/fakher-addaoui)
+- 📫 **How to Reach Me:** fakherraddaoui5@gmail.com | [LinkedIn](https://www.linkedin.com/in/fakher-raddaoui-8995b9251/)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I can solve a Rubik's cube in under 2 minutes and I love playing chess!
 
